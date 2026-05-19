@@ -2,9 +2,9 @@
 
 Tools I Installed
 
-Cursor IDE 
-Claude Code Extension - installed via Cursor Extensions (Ctrl+Shift+X)
-Codex Extension - installed via Cursor Extensions (Ctrl+Shift+X)
+Cursor IDE, 
+Claude Code Extension - installed via Cursor Extensions (Ctrl+Shift+X),
+Codex Extension - installed via Cursor Extensions (Ctrl+Shift+X),
 Git - Version control tool to push code to GitHub
 
 Steps I Completed
@@ -27,13 +27,13 @@ Steps I Completed
 
 Issues I Ran Into and How I Solved Them
 
-Issue: Claude Code and Codex extensions were not visible at first
+Issue: Claude Code and Codex extensions were not visible at first,
 Solution: Cursor opened in Agent view by default. I clicked Editor Window on the top right to switch to the editor view where the extensions were accessible
 
-Issue: Git Clone option was missing in the Cursor command palette
+Issue: Git Clone option was missing in the Cursor command palette,
 Solution: Git was not installed on my computer. I downloaded and installed Git, restarted Cursor and the Git Clone option appeared
 
-Issue: Cursor Marketplace was showing different tools like Hugging Face and Prisma
+Issue: Cursor Marketplace was showing different tools like Hugging Face and Prisma,
 Solution: I switched to the Editor Window extensions panel using Ctrl+Shift+X which showed the correct Claude Code and Codex extensions
 
 What I Learned
