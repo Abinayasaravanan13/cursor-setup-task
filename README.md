@@ -1,4 +1,4 @@
-100Hires Task - Cursor Setup
+100Hires portfolio Task - Cursor Setup
 
 Tools I Installed
 
